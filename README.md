@@ -6,19 +6,3 @@
 <img style="height: auto; width: 49%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edamame-maru&theme=transparent">
 <img style="height: auto; width: 49%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edamame-maru&theme=transparent">  
 </div>
-
-
-
-
-
-
-
-<div class="display: flex;">
-  <div class=flex: 50%; padding: 5px;>
-    <img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edamame-maru&theme=transparent" />
-  </div>
-  <div class=flex: 50%; padding: 5px;>
-    <img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edamame-maru&theme=transparent" /></div>
-  </div>
-</div>
-
