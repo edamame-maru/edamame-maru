@@ -1,5 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edamame-maru&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edamame-maru&theme=default&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=edamame-maru&theme=default&hide_border=true)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
