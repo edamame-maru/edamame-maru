@@ -3,8 +3,8 @@
 
 <body>
     <div class="container">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edamame-maru&theme=transparent">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edamame-maru&theme=transparent">
+        <img style="height: auto; width: 50%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edamame-maru&theme=transparent">
+        <img style="height: auto; width: 50%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edamame-maru&theme=transparent">
     </div>
 </body>
 
