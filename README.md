@@ -1,9 +1,9 @@
 <div><img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edamame-maru&theme=transparent" /></div>
 
-  <div class="float: left; width: 33.33%; padding: 5px;">
+  <div class="float: left; width: 50%; padding: 5px;">
     <img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edamame-maru&theme=transparent" />
   </div>
-  <div class="float: left; width: 33.33%; padding: 5px;">
+  <div class="float: left; width: 50%; padding: 5px;">
     <img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edamame-maru&theme=transparent" />
   </div>
 
